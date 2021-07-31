@@ -1,5 +1,5 @@
 {
-  "scale": 0.25,
+  "scale": 0.28,
   "effects": {
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
@@ -9,15 +9,20 @@
     },
     "sky_color": 7254527,
     "fog_color": 12638463,
-    "water_color": 4159204,
+    "grass_color":7844664,
+    "foliage_color":5157688,
+    "water_color": 4570768,
     "water_fog_color": 329011
   },
   "surface_builder": "minecraft:desert",
   "carvers": {
     "air": [
+      "terralith:noodle_ravine",
+      "terralith:flat_cave",
+      "terralith:tall_cave",
       "minecraft:prototype_cave",
       "minecraft:prototype_canyon",
-      "minecraft:prototype_crevice"
+"terralith:big_cave_entrance"
     ]
   },
   "features": [
@@ -25,10 +30,9 @@
     [
       "minecraft:lake_lava"
     ],
+    [],
     [
-      "minecraft:amethyst_geode"
-    ],
-    [
+      "minecraft:amethyst_geode",
       "minecraft:monster_room"
     ],
     [
@@ -36,7 +40,9 @@
     ],
     [],
     [
-      "minecraft:prototype_ore_dirt",
+      "terralith:desert/vanilla/oasis_disks",
+      "terralith:desert/vanilla/oasis_clay",
+"minecraft:prototype_ore_dirt",
       "minecraft:prototype_ore_gravel",
       "minecraft:prototype_ore_granite",
       "minecraft:prototype_ore_diorite",
@@ -56,30 +62,47 @@
       "minecraft:prototype_ore_lapis_buried",
       "minecraft:prototype_ore_copper",
       "desertlapis:ore_lapis_extra",
-      "minecraft:prototype_underwater_magma",
-      "minecraft:disk_sand",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "minecraft:prototype_underwater_magma"
     ],
+    [],
     [
-      "minecraft:rare_dripstone_cluster",
-      "minecraft:rare_small_dripstone"
-    ],
-    [
-      "minecraft:prototype_glow_lichen",
       "minecraft:flower_default",
-      "minecraft:patch_grass_badlands",
+      "terralith:desert/vanilla/trees",
+      "terralith:desert/vanilla/oasis_grass",
       "minecraft:patch_dead_bush_2",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane_desert",
+      "minecraft:patch_waterlilly",
       "minecraft:patch_pumpkin",
       "minecraft:patch_cactus_desert",
-      "minecraft:prototype_spring_water",
-      "minecraft:spring_lava"
+      "minecraft:prototype_glow_lichen",
+"minecraft:prototype_spring_water",
+      "minecraft:prototype_spring_lava"
     ],
     [
-      "minecraft:freeze_top_layer"
+      "minecraft:freeze_top_layer",
+      "terralith:cave/lush/lush_caves_ceiling_vegetation",
+      "terralith:cave/lush/cave_vines",
+      "terralith:cave/lush/lush_caves_clay",
+      "terralith:cave/lush/lush_caves_vegetation",
+      "terralith:cave/lush/rooted_azalea_trees",
+      "terralith:cave/lush/spore_blossom",
+      "terralith:cave/lush/classic_vines_cave_feature",
+      "terralith:cave/thermal/ceiling_lower",
+      "terralith:cave/thermal/ceiling_upper",
+      "terralith:cave/thermal/ceiling_lower_small",
+      "terralith:cave/thermal/ceiling_upper_small",
+      "terralith:cave/thermal/pools",
+      "terralith:cave/thermal/pools_carver",
+      "terralith:cave/thermal/ceiling_carver",
+      "terralith:cave/thermal/magma2",
+      "terralith:cave/thermal/springs",
+      "terralith:cave/desert/ceiling",
+      "terralith:cave/desert/surface",
+      "terralith:cave/desert/cracks",
+      "terralith:cave/desert/lava",
+      "terralith:cave/desert/dead_bush"
     ]
   ],
   "starts": [
@@ -160,6 +183,9 @@
         "maxCount": 8
       }
     ],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": [],
     "underground_water_creature": [
       {
         "type": "minecraft:glow_squid",
@@ -173,10 +199,7 @@
         "minCount": 4,
         "maxCount": 6
       }
-    ],
-    "water_creature": [],
-    "water_ambient": [],
-    "misc": []
+    ]
   },
   "spawn_costs": {},
   "player_spawn_friendly": false,
@@ -184,5 +207,5 @@
   "temperature": 2.0,
   "downfall": 0.0,
   "category": "desert",
-  "depth": 0.225
+  "depth": 0.1
 }
