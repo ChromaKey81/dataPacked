@@ -1,0 +1,44 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/golden_sword"
+    },
+    "overrides": [
+        {
+            "predicate": {
+              "custom_model_data": 1026
+            },
+            "model": "incendium:item/withersbane"
+        },
+        {
+            "predicate": {
+              "custom_model_data": 330000
+            },
+            "model": "tcc:item/tipped_swords/golden_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320000
+            },
+            "model": "coppertools:item/copper_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320001
+            },
+            "model": "coppertools:item/exposed_copper_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320002
+            },
+            "model": "coppertools:item/weathered_copper_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320003
+            },
+            "model": "coppertools:item/oxidized_copper_sword"
+        }
+    ]
+}

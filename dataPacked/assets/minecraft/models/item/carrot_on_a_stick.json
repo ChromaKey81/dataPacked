@@ -1,0 +1,6716 @@
+{
+  "parent": "item/handheld_rod",
+  "textures": {
+    "layer0": "item/carrot_on_a_stick"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 330000
+      },
+      "model": "tcc:item/witch_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330001
+      },
+      "model": "tcc:item/cursed_crown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330002
+      },
+      "model": "tcc:item/quest_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330003
+      },
+      "model": "tcc:item/complete_quest_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330004
+      },
+      "model": "tcc:item/boomerang"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330005
+      },
+      "model": "tcc:item/spectral_boomerang"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330006
+      },
+      "model": "tcc:item/peculiar_berries"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330007
+      },
+      "model": "tcc:item/obsidian_mirror"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330008
+      },
+      "model": "tcc:item/obsidian_scythe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330009
+      },
+      "model": "tcc:item/wrench"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330010
+      },
+      "model": "tcc:item/paintbrush/unused"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330011
+      },
+      "model": "tcc:item/paintbrush/black"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330012
+      },
+      "model": "tcc:item/paintbrush/blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330013
+      },
+      "model": "tcc:item/paintbrush/brown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330014
+      },
+      "model": "tcc:item/paintbrush/cyan"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330015
+      },
+      "model": "tcc:item/paintbrush/gray"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330016
+      },
+      "model": "tcc:item/paintbrush/green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330017
+      },
+      "model": "tcc:item/paintbrush/light_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330018
+      },
+      "model": "tcc:item/paintbrush/light_gray"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330019
+      },
+      "model": "tcc:item/paintbrush/lime"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330020
+      },
+      "model": "tcc:item/paintbrush/magenta"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330021
+      },
+      "model": "tcc:item/paintbrush/orange"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330022
+      },
+      "model": "tcc:item/paintbrush/pink"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330023
+      },
+      "model": "tcc:item/paintbrush/purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330024
+      },
+      "model": "tcc:item/paintbrush/red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330025
+      },
+      "model": "tcc:item/paintbrush/white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330026
+      },
+      "model": "tcc:item/paintbrush/yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330027
+      },
+      "model": "tcc:item/smoldering_seeker/unset"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330028
+      },
+      "model": "tcc:item/creeper_magnet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330029
+      },
+      "model": "tcc:item/teapot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330030
+      },
+      "model": "tcc:item/frostbloom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330031
+      },
+      "model": "tcc:item/locket_of_learning/empty"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330032
+      },
+      "model": "tcc:item/locket_of_learning/filled_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330033
+      },
+      "model": "tcc:item/locket_of_learning/filled_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330034
+      },
+      "model": "tcc:item/locket_of_learning/filled_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330035
+      },
+      "model": "tcc:item/locket_of_learning/filled_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330036
+      },
+      "model": "tcc:item/locket_of_learning/filled_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330037
+      },
+      "model": "tcc:item/gobblerift"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330038
+      },
+      "model": "tcc:item/snail_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330039
+      },
+      "model": "tcc:item/photometer/lowest_light"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330040
+      },
+      "model": "tcc:item/photometer/low_light"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330041
+      },
+      "model": "tcc:item/photometer/high_light"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330042
+      },
+      "model": "tcc:item/photometer/highest_light"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338000
+      },
+      "model": "tcc:item/ring/iron/gemstone/none"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338001
+      },
+      "model": "tcc:item/ring/iron/gemstone/amethyst"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338002
+      },
+      "model": "tcc:item/ring/iron/gemstone/diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338003
+      },
+      "model": "tcc:item/ring/iron/gemstone/emerald"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338004
+      },
+      "model": "tcc:item/ring/iron/gemstone/ender_pearl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338005
+      },
+      "model": "tcc:item/ring/iron/gemstone/lapis_lazuli"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338006
+      },
+      "model": "tcc:item/ring/iron/gemstone/obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338007
+      },
+      "model": "tcc:item/ring/iron/gemstone/prismarine_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338008
+      },
+      "model": "tcc:item/ring/iron/gemstone/quartz"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338010
+      },
+      "model": "tcc:item/ring/golden/gemstone/none"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338011
+      },
+      "model": "tcc:item/ring/golden/gemstone/amethyst"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338012
+      },
+      "model": "tcc:item/ring/golden/gemstone/diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338013
+      },
+      "model": "tcc:item/ring/golden/gemstone/emerald"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338014
+      },
+      "model": "tcc:item/ring/golden/gemstone/ender_pearl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338015
+      },
+      "model": "tcc:item/ring/golden/gemstone/lapis_lazuli"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338016
+      },
+      "model": "tcc:item/ring/golden/gemstone/obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338017
+      },
+      "model": "tcc:item/ring/golden/gemstone/prismarine_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338018
+      },
+      "model": "tcc:item/ring/golden/gemstone/quartz"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338020
+      },
+      "model": "tcc:item/ring/netherite/gemstone/none"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338021
+      },
+      "model": "tcc:item/ring/netherite/gemstone/amethyst"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338022
+      },
+      "model": "tcc:item/ring/netherite/gemstone/diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338023
+      },
+      "model": "tcc:item/ring/netherite/gemstone/emerald"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338024
+      },
+      "model": "tcc:item/ring/netherite/gemstone/ender_pearl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338025
+      },
+      "model": "tcc:item/ring/netherite/gemstone/lapis_lazuli"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338026
+      },
+      "model": "tcc:item/ring/netherite/gemstone/obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338027
+      },
+      "model": "tcc:item/ring/netherite/gemstone/prismarine_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338028
+      },
+      "model": "tcc:item/ring/netherite/gemstone/quartz"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339000
+      },
+      "model": "tcc:item/ring/iron/gemstone_and_potion/none"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339001
+      },
+      "model": "tcc:item/ring/iron/gemstone_and_potion/amethyst"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339002
+      },
+      "model": "tcc:item/ring/iron/gemstone_and_potion/diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339003
+      },
+      "model": "tcc:item/ring/iron/gemstone_and_potion/emerald"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339004
+      },
+      "model": "tcc:item/ring/iron/gemstone_and_potion/ender_pearl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339005
+      },
+      "model": "tcc:item/ring/iron/gemstone_and_potion/lapis_lazuli"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339006
+      },
+      "model": "tcc:item/ring/iron/gemstone_and_potion/obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339007
+      },
+      "model": "tcc:item/ring/iron/gemstone_and_potion/prismarine_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339008
+      },
+      "model": "tcc:item/ring/iron/gemstone_and_potion/quartz"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339010
+      },
+      "model": "tcc:item/ring/golden/gemstone_and_potion/none"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339011
+      },
+      "model": "tcc:item/ring/golden/gemstone_and_potion/amethyst"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339012
+      },
+      "model": "tcc:item/ring/golden/gemstone_and_potion/diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339013
+      },
+      "model": "tcc:item/ring/golden/gemstone_and_potion/emerald"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339014
+      },
+      "model": "tcc:item/ring/golden/gemstone_and_potion/ender_pearl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339015
+      },
+      "model": "tcc:item/ring/golden/gemstone_and_potion/lapis_lazuli"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339016
+      },
+      "model": "tcc:item/ring/golden/gemstone_and_potion/obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339017
+      },
+      "model": "tcc:item/ring/golden/gemstone_and_potion/prismarine_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339018
+      },
+      "model": "tcc:item/ring/golden/gemstone_and_potion/quartz"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339020
+      },
+      "model": "tcc:item/ring/netherite/gemstone_and_potion/none"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339021
+      },
+      "model": "tcc:item/ring/netherite/gemstone_and_potion/amethyst"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339022
+      },
+      "model": "tcc:item/ring/netherite/gemstone_and_potion/diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339023
+      },
+      "model": "tcc:item/ring/netherite/gemstone_and_potion/emerald"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339024
+      },
+      "model": "tcc:item/ring/netherite/gemstone_and_potion/ender_pearl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339025
+      },
+      "model": "tcc:item/ring/netherite/gemstone_and_potion/lapis_lazuli"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339026
+      },
+      "model": "tcc:item/ring/netherite/gemstone_and_potion/obsidian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339027
+      },
+      "model": "tcc:item/ring/netherite/gemstone_and_potion/prismarine_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339028
+      },
+      "model": "tcc:item/ring/netherite/gemstone_and_potion/quartz"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 408000
+      },
+      "model": "tcc_compat:tcc/item/ring/iron/gemstone/dnd/amber"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 408001
+      },
+      "model": "tcc_compat:tcc/item/ring/iron/gemstone/dnd/gypsum"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 408010
+      },
+      "model": "tcc_compat:tcc/item/ring/golden/gemstone/dnd/amber"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 408011
+      },
+      "model": "tcc_compat:tcc/item/ring/golden/gemstone/dnd/gypsum"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 408020
+      },
+      "model": "tcc_compat:tcc/item/ring/netherite/gemstone/dnd/amber"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 408021
+      },
+      "model": "tcc_compat:tcc/item/ring/netherite/gemstone/dnd/gypsum"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 409000
+      },
+      "model": "tcc_compat:tcc/item/ring/iron/gemstone_and_potion/dnd/amber"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 409001
+      },
+      "model": "tcc_compat:tcc/item/ring/iron/gemstone_and_potion/dnd/gypsum"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 409010
+      },
+      "model": "tcc_compat:tcc/item/ring/golden/gemstone_and_potion/dnd/amber"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 409011
+      },
+      "model": "tcc_compat:tcc/item/ring/golden/gemstone_and_potion/dnd/gypsum"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 409020
+      },
+      "model": "tcc_compat:tcc/item/ring/netherite/gemstone_and_potion/dnd/amber"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 409021
+      },
+      "model": "tcc_compat:tcc/item/ring/netherite/gemstone_and_potion/dnd/gypsum"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320000,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/320_to_313"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320001,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/312_to_305"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320002,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/304_to_297"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320003,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/296_to_289"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320004,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/288_to_281"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320005,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/280_to_273"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320006,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/272_to_265"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320007,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/264_to_257"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320008,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/256_to_249"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320009,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/248_to_241"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320010,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/240_to_233"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320011,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/232_to_225"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320012,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/224_to_217"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320013,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/216_to_209"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320014,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/208_to_201"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320015,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/200_to_193"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320016,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/192_to_185"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320017,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/184_to_177"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320018,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/176_to_169"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320019,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/168_to_161"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320020,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/160_to_153"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320021,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/152_to_145"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320022,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/144_to_137"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320023,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/136_to_129"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320024,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/128_to_121"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320025,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/120_to_113"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320026,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/112_to_105"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320027,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/104_to_97"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320028,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/96_to_89"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320029,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/88_to_81"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320030,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/80_to_73"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320031,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/72_to_65"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320032,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/64_to_57"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320033,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/56_to_49"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320034,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/48_to_41"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320035,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/40_to_33"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320036,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/32_to_25"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320037,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/24_to_17"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320038,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/16_to_9"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320039,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/8_to_1"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320040,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/0_to_neg7"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320041,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/neg8_to_neg15"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320042,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/neg16_to_neg23"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320043,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/neg24_to_neg31"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320044,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/neg32_to_neg39"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320045,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/neg40_to_neg47"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320046,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/neg48_to_neg55"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320047,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/coal/neg56_to_neg63"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320000,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/320_to_313"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320001,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/312_to_305"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320002,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/304_to_297"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320003,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/296_to_289"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320004,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/288_to_281"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320005,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/280_to_273"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320006,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/272_to_265"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320007,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/264_to_257"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320008,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/256_to_249"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320009,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/248_to_241"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320010,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/240_to_233"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320011,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/232_to_225"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320012,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/224_to_217"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320013,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/216_to_209"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320014,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/208_to_201"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320015,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/200_to_193"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320016,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/192_to_185"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320017,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/184_to_177"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320018,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/176_to_169"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320019,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/168_to_161"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320020,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/160_to_153"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320021,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/152_to_145"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320022,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/144_to_137"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320023,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/136_to_129"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320024,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/128_to_121"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320025,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/120_to_113"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320026,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/112_to_105"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320027,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/104_to_97"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320028,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/96_to_89"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320029,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/88_to_81"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320030,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/80_to_73"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320031,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/72_to_65"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320032,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/64_to_57"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320033,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/56_to_49"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320034,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/48_to_41"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320035,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/40_to_33"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320036,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/32_to_25"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320037,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/24_to_17"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320038,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/16_to_9"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320039,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/8_to_1"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320040,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/0_to_neg7"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320041,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/neg8_to_neg15"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320042,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/neg16_to_neg23"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320043,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/neg24_to_neg31"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320044,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/neg32_to_neg39"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320045,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/neg40_to_neg47"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320046,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/neg48_to_neg55"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320047,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/coal/neg56_to_neg63"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320048,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/320_to_313"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320049,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/312_to_305"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320050,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/304_to_297"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320051,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/296_to_289"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320052,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/288_to_281"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320053,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/280_to_273"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320054,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/272_to_265"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320055,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/264_to_257"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320056,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/256_to_249"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320057,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/248_to_241"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320058,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/240_to_233"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320059,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/232_to_225"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320060,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/224_to_217"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320061,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/216_to_209"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320062,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/208_to_201"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320063,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/200_to_193"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320064,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/192_to_185"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320065,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/184_to_177"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320066,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/176_to_169"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320067,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/168_to_161"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320068,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/160_to_153"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320069,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/152_to_145"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320070,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/144_to_137"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320071,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/136_to_129"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320072,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/128_to_121"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320073,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/120_to_113"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320074,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/112_to_105"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320075,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/104_to_97"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320076,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/96_to_89"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320077,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/88_to_81"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320078,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/80_to_73"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320079,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/72_to_65"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320080,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/64_to_57"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320081,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/56_to_49"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320082,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/48_to_41"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320083,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/40_to_33"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320084,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/32_to_25"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320085,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/24_to_17"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320086,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/16_to_9"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320087,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/8_to_1"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320088,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/0_to_neg7"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320089,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/neg8_to_neg15"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320090,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/neg16_to_neg23"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320091,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/neg24_to_neg31"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320092,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/neg32_to_neg39"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320093,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/neg40_to_neg47"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320094,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/neg48_to_neg55"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320095,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/copper/neg56_to_neg63"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320048,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/320_to_313"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320049,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/312_to_305"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320050,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/304_to_297"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320051,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/296_to_289"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320052,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/288_to_281"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320053,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/280_to_273"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320054,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/272_to_265"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320055,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/264_to_257"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320056,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/256_to_249"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320057,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/248_to_241"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320058,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/240_to_233"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320059,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/232_to_225"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320060,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/224_to_217"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320061,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/216_to_209"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320062,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/208_to_201"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320063,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/200_to_193"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320064,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/192_to_185"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320065,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/184_to_177"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320066,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/176_to_169"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320067,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/168_to_161"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320068,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/160_to_153"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320069,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/152_to_145"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320070,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/144_to_137"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320071,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/136_to_129"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320072,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/128_to_121"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320073,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/120_to_113"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320074,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/112_to_105"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320075,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/104_to_97"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320076,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/96_to_89"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320077,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/88_to_81"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320078,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/80_to_73"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320079,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/72_to_65"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320080,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/64_to_57"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320081,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/56_to_49"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320082,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/48_to_41"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320083,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/40_to_33"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320084,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/32_to_25"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320085,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/24_to_17"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320086,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/16_to_9"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320087,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/8_to_1"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320088,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/0_to_neg7"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320089,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/neg8_to_neg15"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320090,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/neg16_to_neg23"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320091,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/neg24_to_neg31"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320092,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/neg32_to_neg39"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320093,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/neg40_to_neg47"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320094,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/neg48_to_neg55"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320095,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/copper/neg56_to_neg63"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320096,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/320_to_313"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320097,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/312_to_305"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320098,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/304_to_297"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320099,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/296_to_289"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320100,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/288_to_281"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320101,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/280_to_273"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320102,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/272_to_265"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320103,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/264_to_257"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320104,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/256_to_249"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320105,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/248_to_241"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320106,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/240_to_233"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320107,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/232_to_225"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320108,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/224_to_217"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320109,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/216_to_209"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320110,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/208_to_201"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320111,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/200_to_193"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320112,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/192_to_185"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320113,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/184_to_177"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320114,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/176_to_169"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320115,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/168_to_161"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320116,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/160_to_153"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320117,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/152_to_145"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320118,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/144_to_137"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320119,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/136_to_129"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320120,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/128_to_121"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320121,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/120_to_113"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320122,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/112_to_105"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320123,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/104_to_97"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320124,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/96_to_89"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320125,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/88_to_81"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320126,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/80_to_73"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320127,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/72_to_65"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320128,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/64_to_57"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320129,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/56_to_49"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320130,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/48_to_41"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320131,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/40_to_33"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320132,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/32_to_25"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320133,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/24_to_17"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320134,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/16_to_9"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320135,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/8_to_1"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320136,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/0_to_neg7"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320137,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/neg8_to_neg15"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320138,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/neg16_to_neg23"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320139,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/neg24_to_neg31"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320140,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/neg32_to_neg39"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320141,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/neg40_to_neg47"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320142,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/neg48_to_neg55"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320143,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/iron/neg56_to_neg63"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320096,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/320_to_313"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320097,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/312_to_305"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320098,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/304_to_297"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320099,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/296_to_289"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320100,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/288_to_281"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320101,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/280_to_273"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320102,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/272_to_265"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320103,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/264_to_257"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320104,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/256_to_249"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320105,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/248_to_241"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320106,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/240_to_233"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320107,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/232_to_225"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320108,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/224_to_217"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320109,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/216_to_209"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320110,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/208_to_201"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320111,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/200_to_193"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320112,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/192_to_185"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320113,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/184_to_177"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320114,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/176_to_169"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320115,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/168_to_161"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320116,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/160_to_153"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320117,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/152_to_145"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320118,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/144_to_137"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320119,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/136_to_129"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320120,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/128_to_121"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320121,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/120_to_113"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320122,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/112_to_105"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320123,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/104_to_97"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320124,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/96_to_89"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320125,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/88_to_81"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320126,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/80_to_73"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320127,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/72_to_65"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320128,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/64_to_57"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320129,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/56_to_49"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320130,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/48_to_41"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320131,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/40_to_33"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320132,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/32_to_25"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320133,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/24_to_17"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320134,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/16_to_9"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320135,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/8_to_1"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320136,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/0_to_neg7"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320137,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/neg8_to_neg15"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320138,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/neg16_to_neg23"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320139,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/neg24_to_neg31"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320140,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/neg32_to_neg39"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320141,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/neg40_to_neg47"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320142,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/neg48_to_neg55"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320143,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/iron/neg56_to_neg63"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320144,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/320_to_313"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320145,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/312_to_305"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320146,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/304_to_297"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320147,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/296_to_289"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320148,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/288_to_281"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320149,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/280_to_273"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320150,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/272_to_265"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320151,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/264_to_257"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320152,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/256_to_249"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320153,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/248_to_241"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320154,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/240_to_233"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320155,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/232_to_225"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320156,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/224_to_217"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320157,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/216_to_209"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320158,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/208_to_201"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320159,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/200_to_193"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320160,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/192_to_185"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320161,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/184_to_177"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320162,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/176_to_169"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320163,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/168_to_161"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320164,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/160_to_153"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320165,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/152_to_145"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320166,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/144_to_137"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320167,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/136_to_129"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320168,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/128_to_121"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320169,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/120_to_113"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320170,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/112_to_105"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320171,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/104_to_97"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320172,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/96_to_89"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320173,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/88_to_81"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320174,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/80_to_73"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320175,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/72_to_65"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320176,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/64_to_57"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320177,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/56_to_49"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320178,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/48_to_41"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320179,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/40_to_33"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320180,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/32_to_25"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320181,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/24_to_17"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320182,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/16_to_9"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320183,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/8_to_1"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320184,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/0_to_neg7"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320185,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/neg8_to_neg15"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320186,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/neg16_to_neg23"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320187,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/neg24_to_neg31"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320188,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/neg32_to_neg39"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320189,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/neg40_to_neg47"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320190,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/neg48_to_neg55"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320191,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/neg56_to_neg63"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320144,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/320_to_313"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320145,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/312_to_305"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320146,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/304_to_297"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320147,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/296_to_289"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320148,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/288_to_281"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320149,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/280_to_273"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320150,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/272_to_265"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320151,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/264_to_257"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320152,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/256_to_249"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320153,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/248_to_241"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320154,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/240_to_233"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320155,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/232_to_225"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320156,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/224_to_217"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320157,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/216_to_209"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320158,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/208_to_201"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320159,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/200_to_193"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320160,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/192_to_185"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320161,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/184_to_177"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320162,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/176_to_169"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320163,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/168_to_161"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320164,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/160_to_153"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320165,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/152_to_145"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320166,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/144_to_137"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320167,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/136_to_129"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320168,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/128_to_121"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320169,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/120_to_113"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320170,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/112_to_105"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320171,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/104_to_97"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320172,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/96_to_89"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320173,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/88_to_81"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320174,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/80_to_73"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320175,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/72_to_65"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320176,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/64_to_57"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320177,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/56_to_49"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320178,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/48_to_41"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320179,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/40_to_33"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320180,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/32_to_25"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320181,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/24_to_17"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320182,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/16_to_9"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320183,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/8_to_1"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320184,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/0_to_neg7"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320185,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/neg8_to_neg15"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320186,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/neg16_to_neg23"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320187,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/neg24_to_neg31"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320188,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/neg32_to_neg39"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320189,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/neg40_to_neg47"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320190,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/neg48_to_neg55"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320191,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/neg56_to_neg63"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320192,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/320_to_313"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320193,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/312_to_305"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320194,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/304_to_297"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320195,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/296_to_289"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320196,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/288_to_281"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320197,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/280_to_273"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320198,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/272_to_265"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320199,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/264_to_257"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320200,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/256_to_249"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320201,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/248_to_241"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320202,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/240_to_233"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320203,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/232_to_225"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320204,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/224_to_217"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320205,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/216_to_209"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320206,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/208_to_201"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320207,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/200_to_193"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320208,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/192_to_185"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320209,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/184_to_177"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320210,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/176_to_169"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320211,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/168_to_161"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320212,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/160_to_153"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320213,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/152_to_145"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320214,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/144_to_137"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320215,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/136_to_129"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320216,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/128_to_121"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320217,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/120_to_113"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320218,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/112_to_105"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320219,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/104_to_97"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320220,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/96_to_89"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320221,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/88_to_81"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320222,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/80_to_73"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320223,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/72_to_65"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320224,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/64_to_57"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320225,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/56_to_49"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320226,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/48_to_41"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320227,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/40_to_33"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320228,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/32_to_25"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320229,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/24_to_17"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320230,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/16_to_9"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320231,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/8_to_1"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320232,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/0_to_neg7"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320233,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/neg8_to_neg15"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320234,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/neg16_to_neg23"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320235,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/neg24_to_neg31"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320236,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/neg32_to_neg39"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320237,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/neg40_to_neg47"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320238,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/neg48_to_neg55"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320239,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/gold/badlands/neg56_to_neg63"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320192,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/320_to_313"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320193,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/312_to_305"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320194,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/304_to_297"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320195,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/296_to_289"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320196,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/288_to_281"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320197,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/280_to_273"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320198,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/272_to_265"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320199,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/264_to_257"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320200,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/256_to_249"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320201,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/248_to_241"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320202,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/240_to_233"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320203,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/232_to_225"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320204,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/224_to_217"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320205,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/216_to_209"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320206,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/208_to_201"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320207,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/200_to_193"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320208,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/192_to_185"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320209,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/184_to_177"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320210,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/176_to_169"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320211,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/168_to_161"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320212,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/160_to_153"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320213,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/152_to_145"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320214,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/144_to_137"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320215,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/136_to_129"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320216,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/128_to_121"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320217,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/120_to_113"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320218,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/112_to_105"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320219,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/104_to_97"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320220,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/96_to_89"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320221,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/88_to_81"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320222,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/80_to_73"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320223,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/72_to_65"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320224,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/64_to_57"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320225,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/56_to_49"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320226,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/48_to_41"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320227,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/40_to_33"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320228,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/32_to_25"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320229,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/24_to_17"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320230,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/16_to_9"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320231,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/8_to_1"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320232,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/0_to_neg7"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320233,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/neg8_to_neg15"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320234,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/neg16_to_neg23"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320235,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/neg24_to_neg31"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320236,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/neg32_to_neg39"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320237,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/neg40_to_neg47"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320238,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/neg48_to_neg55"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320239,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/gold/badlands/neg56_to_neg63"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320240,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/320_to_313"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320241,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/312_to_305"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320242,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/304_to_297"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320243,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/296_to_289"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320244,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/288_to_281"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320245,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/280_to_273"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320246,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/272_to_265"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320247,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/264_to_257"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320248,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/256_to_249"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320249,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/248_to_241"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320250,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/240_to_233"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320251,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/232_to_225"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320252,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/224_to_217"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320253,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/216_to_209"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320254,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/208_to_201"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320255,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/200_to_193"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320256,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/192_to_185"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320257,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/184_to_177"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320258,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/176_to_169"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320259,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/168_to_161"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320260,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/160_to_153"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320261,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/152_to_145"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320262,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/144_to_137"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320263,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/136_to_129"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320264,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/128_to_121"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320265,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/120_to_113"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320266,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/112_to_105"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320267,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/104_to_97"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320268,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/96_to_89"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320269,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/88_to_81"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320270,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/80_to_73"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320271,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/72_to_65"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320272,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/64_to_57"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320273,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/56_to_49"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320274,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/48_to_41"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320275,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/40_to_33"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320276,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/32_to_25"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320277,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/24_to_17"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320278,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/16_to_9"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320279,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/8_to_1"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320280,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/0_to_neg7"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320281,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/neg8_to_neg15"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320282,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/neg16_to_neg23"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320283,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/neg24_to_neg31"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320284,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/neg32_to_neg39"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320285,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/neg40_to_neg47"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320286,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/neg48_to_neg55"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320287,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/neg56_to_neg63"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320240,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/320_to_313"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320241,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/312_to_305"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320242,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/304_to_297"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320243,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/296_to_289"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320244,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/288_to_281"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320245,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/280_to_273"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320246,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/272_to_265"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320247,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/264_to_257"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320248,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/256_to_249"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320249,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/248_to_241"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320250,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/240_to_233"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320251,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/232_to_225"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320252,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/224_to_217"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320253,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/216_to_209"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320254,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/208_to_201"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320255,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/200_to_193"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320256,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/192_to_185"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320257,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/184_to_177"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320258,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/176_to_169"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320259,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/168_to_161"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320260,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/160_to_153"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320261,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/152_to_145"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320262,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/144_to_137"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320263,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/136_to_129"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320264,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/128_to_121"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320265,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/120_to_113"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320266,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/112_to_105"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320267,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/104_to_97"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320268,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/96_to_89"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320269,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/88_to_81"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320270,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/80_to_73"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320271,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/72_to_65"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320272,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/64_to_57"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320273,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/56_to_49"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320274,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/48_to_41"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320275,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/40_to_33"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320276,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/32_to_25"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320277,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/24_to_17"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320278,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/16_to_9"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320279,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/8_to_1"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320280,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/0_to_neg7"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320281,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/neg8_to_neg15"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320282,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/neg16_to_neg23"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320283,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/neg24_to_neg31"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320284,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/neg32_to_neg39"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320285,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/neg40_to_neg47"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320286,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/neg48_to_neg55"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320287,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/neg56_to_neg63"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320288,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/320_to_313"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320289,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/312_to_305"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320290,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/304_to_297"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320291,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/296_to_289"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320292,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/288_to_281"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320293,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/280_to_273"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320294,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/272_to_265"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320295,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/264_to_257"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320296,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/256_to_249"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320297,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/248_to_241"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320298,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/240_to_233"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320299,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/232_to_225"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320300,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/224_to_217"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320301,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/216_to_209"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320302,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/208_to_201"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320303,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/200_to_193"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320304,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/192_to_185"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320305,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/184_to_177"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320306,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/176_to_169"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320307,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/168_to_161"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320308,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/160_to_153"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320309,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/152_to_145"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320310,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/144_to_137"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320311,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/136_to_129"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320312,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/128_to_121"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320313,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/120_to_113"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320314,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/112_to_105"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320315,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/104_to_97"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320316,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/96_to_89"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320317,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/88_to_81"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320318,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/80_to_73"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320319,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/72_to_65"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320320,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/64_to_57"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320321,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/56_to_49"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320322,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/48_to_41"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320323,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/40_to_33"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320324,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/32_to_25"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320325,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/24_to_17"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320326,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/16_to_9"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320327,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/8_to_1"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320328,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/0_to_neg7"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320329,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/neg8_to_neg15"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320330,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/neg16_to_neg23"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320331,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/neg24_to_neg31"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320332,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/neg32_to_neg39"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320333,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/neg40_to_neg47"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320334,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/neg48_to_neg55"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320335,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/redstone/neg56_to_neg63"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320288,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/320_to_313"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320289,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/312_to_305"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320290,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/304_to_297"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320291,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/296_to_289"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320292,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/288_to_281"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320293,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/280_to_273"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320294,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/272_to_265"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320295,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/264_to_257"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320296,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/256_to_249"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320297,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/248_to_241"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320298,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/240_to_233"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320299,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/232_to_225"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320300,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/224_to_217"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320301,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/216_to_209"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320302,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/208_to_201"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320303,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/200_to_193"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320304,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/192_to_185"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320305,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/184_to_177"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320306,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/176_to_169"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320307,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/168_to_161"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320308,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/160_to_153"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320309,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/152_to_145"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320310,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/144_to_137"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320311,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/136_to_129"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320312,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/128_to_121"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320313,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/120_to_113"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320314,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/112_to_105"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320315,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/104_to_97"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320316,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/96_to_89"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320317,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/88_to_81"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320318,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/80_to_73"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320319,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/72_to_65"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320320,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/64_to_57"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320321,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/56_to_49"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320322,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/48_to_41"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320323,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/40_to_33"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320324,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/32_to_25"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320325,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/24_to_17"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320326,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/16_to_9"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320327,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/8_to_1"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320328,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/0_to_neg7"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320329,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/neg8_to_neg15"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320330,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/neg16_to_neg23"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320331,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/neg24_to_neg31"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320332,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/neg32_to_neg39"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320333,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/neg40_to_neg47"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320334,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/neg48_to_neg55"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320335,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/redstone/neg56_to_neg63"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320336,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/320_to_313"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320337,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/312_to_305"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320338,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/304_to_297"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320339,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/296_to_289"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320340,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/288_to_281"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320341,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/280_to_273"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320342,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/272_to_265"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320343,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/264_to_257"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320344,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/256_to_249"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320345,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/248_to_241"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320346,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/240_to_233"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320347,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/232_to_225"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320348,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/224_to_217"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320349,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/216_to_209"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320350,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/208_to_201"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320351,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/200_to_193"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320352,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/192_to_185"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320353,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/184_to_177"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320354,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/176_to_169"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320355,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/168_to_161"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320356,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/160_to_153"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320357,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/152_to_145"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320358,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/144_to_137"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320359,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/136_to_129"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320360,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/128_to_121"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320361,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/120_to_113"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320362,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/112_to_105"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320363,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/104_to_97"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320364,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/96_to_89"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320365,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/88_to_81"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320366,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/80_to_73"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320367,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/72_to_65"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320368,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/64_to_57"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320369,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/56_to_49"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320370,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/48_to_41"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320371,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/40_to_33"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320372,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/32_to_25"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320373,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/24_to_17"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320374,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/16_to_9"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320375,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/8_to_1"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320376,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/0_to_neg7"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320377,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/neg8_to_neg15"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320378,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/neg16_to_neg23"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320379,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/neg24_to_neg31"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320380,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/neg32_to_neg39"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320381,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/neg40_to_neg47"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320382,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/neg48_to_neg55"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320383,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/diamond/neg56_to_neg63"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320336,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/320_to_313"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320337,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/312_to_305"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320338,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/304_to_297"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320339,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/296_to_289"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320340,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/288_to_281"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320341,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/280_to_273"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320342,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/272_to_265"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320343,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/264_to_257"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320344,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/256_to_249"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320345,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/248_to_241"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320346,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/240_to_233"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320347,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/232_to_225"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320348,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/224_to_217"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320349,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/216_to_209"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320350,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/208_to_201"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320351,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/200_to_193"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320352,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/192_to_185"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320353,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/184_to_177"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320354,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/176_to_169"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320355,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/168_to_161"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320356,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/160_to_153"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320357,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/152_to_145"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320358,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/144_to_137"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320359,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/136_to_129"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320360,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/128_to_121"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320361,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/120_to_113"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320362,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/112_to_105"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320363,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/104_to_97"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320364,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/96_to_89"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320365,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/88_to_81"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320366,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/80_to_73"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320367,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/72_to_65"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320368,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/64_to_57"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320369,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/56_to_49"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320370,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/48_to_41"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320371,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/40_to_33"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320372,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/32_to_25"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320373,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/24_to_17"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320374,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/16_to_9"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320375,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/8_to_1"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320376,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/0_to_neg7"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320377,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/neg8_to_neg15"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320378,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/neg16_to_neg23"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320379,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/neg24_to_neg31"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320380,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/neg32_to_neg39"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320381,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/neg40_to_neg47"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320382,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/neg48_to_neg55"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320383,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/diamond/neg56_to_neg63"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320384,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/320_to_313"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320385,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/312_to_305"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320386,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/304_to_297"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320387,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/296_to_289"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320388,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/288_to_281"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320389,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/280_to_273"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320390,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/272_to_265"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320391,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/264_to_257"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320392,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/256_to_249"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320393,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/248_to_241"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320394,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/240_to_233"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320395,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/232_to_225"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320396,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/224_to_217"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320397,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/216_to_209"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320398,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/208_to_201"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320399,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/200_to_193"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320400,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/192_to_185"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320401,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/184_to_177"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320402,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/176_to_169"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320403,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/168_to_161"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320404,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/160_to_153"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320405,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/152_to_145"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320406,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/144_to_137"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320407,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/136_to_129"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320408,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/128_to_121"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320409,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/120_to_113"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320410,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/112_to_105"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320411,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/104_to_97"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320412,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/96_to_89"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320413,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/88_to_81"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320414,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/80_to_73"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320415,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/72_to_65"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320416,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/64_to_57"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320417,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/56_to_49"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320418,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/48_to_41"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320419,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/40_to_33"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320420,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/32_to_25"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320421,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/24_to_17"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320422,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/16_to_9"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320423,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/8_to_1"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320424,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/0_to_neg7"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320425,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/neg8_to_neg15"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320426,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/neg16_to_neg23"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320427,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/neg24_to_neg31"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320428,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/neg32_to_neg39"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320429,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/neg40_to_neg47"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320430,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/neg48_to_neg55"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320431,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/emerald/neg56_to_neg63"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320384,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/320_to_313"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320385,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/312_to_305"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320386,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/304_to_297"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320387,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/296_to_289"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320388,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/288_to_281"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320389,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/280_to_273"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320390,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/272_to_265"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320391,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/264_to_257"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320392,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/256_to_249"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320393,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/248_to_241"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320394,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/240_to_233"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320395,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/232_to_225"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320396,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/224_to_217"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320397,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/216_to_209"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320398,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/208_to_201"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320399,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/200_to_193"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320400,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/192_to_185"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320401,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/184_to_177"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320402,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/176_to_169"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320403,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/168_to_161"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320404,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/160_to_153"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320405,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/152_to_145"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320406,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/144_to_137"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320407,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/136_to_129"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320408,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/128_to_121"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320409,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/120_to_113"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320410,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/112_to_105"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320411,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/104_to_97"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320412,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/96_to_89"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320413,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/88_to_81"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320414,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/80_to_73"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320415,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/72_to_65"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320416,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/64_to_57"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320417,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/56_to_49"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320418,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/48_to_41"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320419,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/40_to_33"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320420,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/32_to_25"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320421,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/24_to_17"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320422,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/16_to_9"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320423,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/8_to_1"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320424,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/0_to_neg7"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320425,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/neg8_to_neg15"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320426,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/neg16_to_neg23"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320427,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/neg24_to_neg31"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320428,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/neg32_to_neg39"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320429,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/neg40_to_neg47"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320430,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/neg48_to_neg55"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320431,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/emerald/neg56_to_neg63"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320432
+        },
+        "model": "antif3:item/ore_map/empty"
+    }
+  ]
+}
