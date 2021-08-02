@@ -1,5 +1,5 @@
 {
-  "scale": 0.5,
+  "scale": 0.75,
   "effects": {
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
@@ -231,5 +231,5 @@
   "temperature": 0.25,
   "downfall": 0.8,
   "category": "taiga",
-  "depth": 0.45
+  "depth": 1.1
 }
