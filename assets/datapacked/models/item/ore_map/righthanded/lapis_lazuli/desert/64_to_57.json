@@ -3,7 +3,7 @@
     "textures": {
         "layer0": "antif3:item/ore_map/base",
         "layer1": "antif3:item/ore_map/ore/lapis_lazuli",
-        "layer2": "antif3:item/ore_map/ore/lapis_lazuli_desert",
+        "layer2": "datapacked:item/ore_map/ore/lapis_lazuli_desert",
         "layer3": "antif3:item/ore_map/altitude/64_to_57"
     },
     "display": {

@@ -38,6 +38,7 @@ Terralith by Starmute ([Info](https://www.planetminecraft.com/data-pack/terralit
 
 
 EnderChest+ by rx ([Info](https://www.planetminecraft.com/data-pack/enderchest-infinitely-expandable-enderchests), [Direct Download](https://github.com/rx-modules/EnderChestPlus/releases/download/v1.8/EnderChest+.v1.8.zip))
+
 PlayerDB by rx ([Info](https://github.com/rx-modules/PlayerDB), [Direct Download](https://github.com/rx-modules/PlayerDB/releases/download/v1.2.0/PlayerDB.v1.2.0.zip))
 
 
@@ -52,10 +53,6 @@ Concrete powder -> stained glass, sandstone dyeing, and universal dyeing by Vani
 
 
 Banners on Beds by Aeldrion ([Info](https://www.planetminecraft.com/data-pack/banners-on-beds/), [Direct Download](https://www.planetminecraft.com/data-pack/banners-on-beds/download/file/14021493/))
-
-
-Marina by Hashs ([Info](https://www.planetminecraft.com/data-pack/marina-fishing-expansion/), [Direct Download](https://www.planetminecraft.com/data-pack/marina-fishing-expansion/download/file/14532888/))
-
 
 Grappling Hook by Hashs ([Info](https://www.planetminecraft.com/data-pack/grappling-hooks-caves-amp-cliffs-mobility/), [Direct Download](https://www.planetminecraft.com/data-pack/grappling-hooks-caves-amp-cliffs-mobility/download/file/14621632/))
 
@@ -83,3 +80,5 @@ Direct downloads for resources:
 [Banners on Beds](https://www.planetminecraft.com/data-pack/banners-on-beds/download/file/14021503/)
 
 [VanillaTweaks](https://vanillatweaks.net/share/#1RFP8U)
+
+[Grappling Hooks](https://www.planetminecraft.com/data-pack/grappling-hooks-caves-amp-cliffs-mobility/download/file/14621636/)
