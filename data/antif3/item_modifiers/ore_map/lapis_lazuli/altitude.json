@@ -1,0 +1,1822 @@
+[
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320240}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "min": 313
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320241}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 312,
+                            "min": 305
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320242}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 304,
+                            "min": 297
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320243}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 296,
+                            "min": 289
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320244}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 288,
+                            "min": 281
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320245}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 280,
+                            "min": 273
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320246}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 272,
+                            "min": 265
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320247}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 264,
+                            "min": 257
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320248}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 256,
+                            "min": 249
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320249}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 248,
+                            "min": 241
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320250}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 240,
+                            "min": 233
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320251}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 232,
+                            "min": 225
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320252}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 224,
+                            "min": 217
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320253}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 216,
+                            "min": 209
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320254}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 208,
+                            "min": 201
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320255}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 200,
+                            "min": 193
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320256}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 192,
+                            "min": 185
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320257}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 184,
+                            "min": 177
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320258}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 176,
+                            "min": 169
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320259}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 168,
+                            "min": 161
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320260}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 160,
+                            "min": 153
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320261}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 152,
+                            "min": 145
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320262}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 144,
+                            "min": 137
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320263}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 136,
+                            "min": 129
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320264}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 128,
+                            "min": 121
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320265}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 120,
+                            "min": 113
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320266}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 112,
+                            "min": 105
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320267}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 104,
+                            "min": 97
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320268}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 96,
+                            "min": 89
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320269}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 88,
+                            "min": 81
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320270}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 80,
+                            "min": 73
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320271}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 72,
+                            "min": 65
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320272}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 64,
+                            "min": 57
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320273}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 56,
+                            "min": 49
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320274}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 48,
+                            "min": 41
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320275}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 40,
+                            "min": 33
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320276}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 32,
+                            "min": 25
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320277}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 24,
+                            "min": 17
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320278}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 16,
+                            "min": 9
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320279}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 8,
+                            "min": 1
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320280}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 0,
+                            "min": -7
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320281}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": -8,
+                            "min": -15
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320282}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": -16,
+                            "min": -23
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320283}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": -24,
+                            "min": -31
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320284}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": -32,
+                            "min": -39
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320285}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": -40,
+                            "min": -47
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320286}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": -48,
+                            "min": -55
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320287}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": -56
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320432}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "min": 313
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320433}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 312,
+                            "min": 305
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320434}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 304,
+                            "min": 297
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320435}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 296,
+                            "min": 289
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320436}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 288,
+                            "min": 281
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320437}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 280,
+                            "min": 273
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320438}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 272,
+                            "min": 265
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320439}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 264,
+                            "min": 257
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320440}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 256,
+                            "min": 249
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320441}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 248,
+                            "min": 241
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320442}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 240,
+                            "min": 233
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320443}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 232,
+                            "min": 225
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320444}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 224,
+                            "min": 217
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320445}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 216,
+                            "min": 209
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320446}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 208,
+                            "min": 201
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320447}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 200,
+                            "min": 193
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320448}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 192,
+                            "min": 185
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320449}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 184,
+                            "min": 177
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320450}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 176,
+                            "min": 169
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320451}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 168,
+                            "min": 161
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320452}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 160,
+                            "min": 153
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320453}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 152,
+                            "min": 145
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320454}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 144,
+                            "min": 137
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320455}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 136,
+                            "min": 129
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320456}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 128,
+                            "min": 121
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320457}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 120,
+                            "min": 113
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320458}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 112,
+                            "min": 105
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320459}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 104,
+                            "min": 97
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320460}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 96,
+                            "min": 89
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320461}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 88,
+                            "min": 81
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320462}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 80,
+                            "min": 73
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320463}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 72,
+                            "min": 65
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320464}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 64,
+                            "min": 57
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320465}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 56,
+                            "min": 49
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320466}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 48,
+                            "min": 41
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320467}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 40,
+                            "min": 33
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320468}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 32,
+                            "min": 25
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320469}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 24,
+                            "min": 17
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320470}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 16,
+                            "min": 9
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320471}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 8,
+                            "min": 1
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320472}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 0,
+                            "min": -7
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320473}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": -8,
+                            "min": -15
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320474}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": -16,
+                            "min": -23
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320475}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": -24,
+                            "min": -31
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320476}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": -32,
+                            "min": -39
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320477}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": -40,
+                            "min": -47
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320478}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": -48,
+                            "min": -55
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320479}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": -56
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "datapacked:biome/deserts"
+            }
+        ]
+    }
+]
