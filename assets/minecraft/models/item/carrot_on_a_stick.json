@@ -6708,7 +6708,679 @@
     },
     {
         "predicate": {
-            "custom_model_data": 1320432
+            "custom_model_data": 1320432,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/320_to_313"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320433,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/312_to_305"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320434,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/304_to_297"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320435,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/296_to_289"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320436,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/288_to_281"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320437,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/280_to_273"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320438,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/272_to_265"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320439,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/264_to_257"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320440,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/256_to_249"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320441,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/248_to_241"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320442,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/240_to_233"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320443,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/232_to_225"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320444,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/224_to_217"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320445,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/216_to_209"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320446,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/208_to_201"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320447,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/200_to_193"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320448,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/192_to_185"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320449,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/184_to_177"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320450,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/176_to_169"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320451,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/168_to_161"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320452,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/160_to_153"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320453,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/152_to_145"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320454,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/144_to_137"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320455,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/136_to_129"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320456,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/128_to_121"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320457,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/120_to_113"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320458,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/112_to_105"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320459,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/104_to_97"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320460,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/96_to_89"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320461,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/88_to_81"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320462,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/80_to_73"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320463,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/72_to_65"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320464,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/64_to_57"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320465,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/56_to_49"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320466,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/48_to_41"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320467,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/40_to_33"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320468,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/32_to_25"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320469,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/24_to_17"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320470,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/16_to_9"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320471,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/8_to_1"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320472,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/0_to_neg7"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320473,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/neg8_to_neg15"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320474,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/neg16_to_neg23"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320475,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/neg24_to_neg31"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320476,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/neg32_to_neg39"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320477,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/neg40_to_neg47"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320478,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/neg48_to_neg55"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320479,
+            "lefthanded": 0
+        },
+        "model": "antif3:item/ore_map/righthanded/lapis_lazuli/desert/neg56_to_neg63"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320480,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/320_to_313"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320481,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/312_to_305"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320482,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/304_to_297"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320483,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/296_to_289"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320484,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/288_to_281"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320485,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/280_to_273"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320486,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/272_to_265"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320487,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/264_to_257"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320488,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/256_to_249"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320489,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/248_to_241"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320490,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/240_to_233"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320491,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/232_to_225"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320492,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/224_to_217"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320493,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/216_to_209"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320494,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/208_to_201"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320495,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/200_to_193"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320496,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/192_to_185"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320497,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/184_to_177"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320498,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/176_to_169"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320499,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/168_to_161"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320500,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/160_to_153"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320501,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/152_to_145"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320502,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/144_to_137"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320503,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/136_to_129"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320504,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/128_to_121"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320505,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/120_to_113"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320506,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/112_to_105"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320507,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/104_to_97"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320508,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/96_to_89"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320509,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/88_to_81"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320510,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/80_to_73"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320511,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/72_to_65"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320512,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/64_to_57"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320513,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/56_to_49"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320514,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/48_to_41"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320515,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/40_to_33"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320516,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/32_to_25"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320517,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/24_to_17"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320518,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/16_to_9"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320519,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/8_to_1"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320520,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/0_to_neg7"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320521,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/neg8_to_neg15"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320522,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/neg16_to_neg23"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320523,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/neg24_to_neg31"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320524,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/neg32_to_neg39"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320525,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/neg40_to_neg47"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320526,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/neg48_to_neg55"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320527,
+            "lefthanded": 1
+        },
+        "model": "antif3:item/ore_map/lefthanded/lapis_lazuli/desert/neg56_to_neg63"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 1320528
         },
         "model": "antif3:item/ore_map/empty"
     }

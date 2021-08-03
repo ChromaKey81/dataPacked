@@ -1,0 +1,30 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "antif3:item/ore_map/base",
+        "layer1": "antif3:item/ore_map/ore/lapis_lazuli",
+        "layer2": "antif3:item/ore_map/ore/lapis_lazuli_desert",
+        "layer3": "antif3:item/ore_map/altitude/88_to_81"
+    },
+    "display": {
+        "firstperson_righthand": {
+            "translation": [
+                -8.95,
+                8.95,
+                -8.9
+            ]
+        },
+        "firstperson_lefthand": {
+            "translation": [
+                10,
+                4,
+                -8.5
+            ],
+            "scale": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        }
+    }
+}
