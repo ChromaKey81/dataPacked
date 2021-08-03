@@ -7383,6 +7383,36 @@
             "custom_model_data": 1320528
         },
         "model": "antif3:item/ore_map/empty"
-    }
+    },
+            {
+            "predicate": {"custom_model_data": 422000}, "model": "marina:items/luck_meter"
+        },
+        {
+            "predicate": {"custom_model_data": 422001}, "model": "marina:items/luck_meter_inactive"
+        },
+        {
+            "predicate": {"custom_model_data": 422002}, "model": "marina:items/rainmaker"
+        },
+        {
+            "predicate": {"custom_model_data": 422003}, "model": "marina:items/fish_chum_bucket"
+        },
+        {
+            "predicate": {"custom_model_data": 422004}, "model": "marina:items/cursed_chum_bucket"
+        },
+        {
+            "predicate": {"custom_model_data": 422005}, "model": "marina:items/exotic_chum_bucket"
+        },
+        {
+            "predicate": {"custom_model_data": 422006}, "model": "marina:items/consecrated_chum_bucket"
+        },
+        {
+            "predicate": {"custom_model_data": 422007}, "model": "marina:items/golden_chum_bucket"
+        },
+                {
+            "predicate": {"custom_model_data": 425000}, "model": "grappling_hooks:items/grappling_hook"
+        },
+        {
+            "predicate": {"custom_model_data": 425001}, "model": "grappling_hooks:items/battle_hook"
+        }
   ]
 }
