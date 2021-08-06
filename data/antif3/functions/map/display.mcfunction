@@ -147,3 +147,4 @@ execute if entity @s[advancements={antif3:technical/check_biome={terralith.zrese
 execute if entity @s[advancements={antif3:technical/check_biome={terralith.zreserved.112.midland_snowy_taiga=true}}] run data modify storage abcl:storage temp.message.Message set value '{"translate":"biome.terralith.zreserved.112.midland_snowy_taiga","color":"gold"}'
 execute if entity @s[advancements={antif3:technical/check_biome={terralith.zreserved.113.highland_snowy_taiga=true}}] run data modify storage abcl:storage temp.message.Message set value '{"translate":"biome.terralith.zreserved.113.highland_snowy_taiga","color":"gold"}'
 execute if entity @s[advancements={antif3:technical/check_biome={terralith.zreserved.114.midland_snowy_taiga_hills=true}}] run data modify storage abcl:storage temp.message.Message set value '{"translate":"biome.terralith.zreserved.114.midland_snowy_taiga_hills","color":"gold"}'
+function abcl:message/check
