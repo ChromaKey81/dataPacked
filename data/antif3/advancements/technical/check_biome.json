@@ -968,11 +968,11 @@
                 }
             }
         },
-        "terralith.siberian_tundra": {
+        "terralith.siberian_taiga": {
             "trigger": "minecraft:location",
             "conditions": {
                 "location": {
-                    "biome": "terralith:siberian_tundra"
+                    "biome": "terralith:siberian_taiga"
                 }
             }
         },
