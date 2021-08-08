@@ -660,18 +660,6 @@
     },
     {
         "predicate": {
-	    "custom_model_data": 425000
-        },
-        "model": "grappling_hooks:items/grappling_hook"
-    },
-    {
-         "predicate": {
-             "custom_model_data": 425001
-         }, 
-         "model": "grappling_hooks:items/battle_hook"
-    },
-    {
-        "predicate": {
             "custom_model_data": 1320000,
             "lefthanded": 0
         },

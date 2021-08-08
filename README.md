@@ -54,9 +54,6 @@ Concrete powder -> stained glass, sandstone dyeing, and universal dyeing by Vani
 
 Banners on Beds by Aeldrion ([Info](https://www.planetminecraft.com/data-pack/banners-on-beds/), [Direct Download](https://www.planetminecraft.com/data-pack/banners-on-beds/download/file/14021493/))
 
-Grappling Hook by Hashs ([Info](https://www.planetminecraft.com/data-pack/grappling-hooks-caves-amp-cliffs-mobility/), [Direct Download](https://www.planetminecraft.com/data-pack/grappling-hooks-caves-amp-cliffs-mobility/download/file/14621632/))
-
-
 
 
 It also relies on those packs' required resource packs, Incendium's optional resource pack, and a collection of VanillaTweaks resource packs. You need to install these resource packs to play.
@@ -80,5 +77,3 @@ Direct downloads for resources:
 [Banners on Beds](https://www.planetminecraft.com/data-pack/banners-on-beds/download/file/14021503/)
 
 [VanillaTweaks](https://vanillatweaks.net/share/#1RFP8U)
-
-[Grappling Hooks](https://www.planetminecraft.com/data-pack/grappling-hooks-caves-amp-cliffs-mobility/download/file/14621636/)
