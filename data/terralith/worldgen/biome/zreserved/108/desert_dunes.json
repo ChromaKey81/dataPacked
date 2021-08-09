@@ -79,6 +79,7 @@
       ],
       [
         "minecraft:freeze_top_layer",
+        "terralith:cave/generic/kill_bad_leaves",
         "terralith:cave/lush/lush_caves_ceiling_vegetation",
         "terralith:cave/lush/cave_vines",
         "terralith:cave/lush/lush_caves_clay",

@@ -98,6 +98,7 @@
       ],
       [
         "minecraft:freeze_top_layer",
+        "terralith:cave/generic/kill_bad_leaves",
         "terralith:cave/desert/full/ceiling",
         "terralith:cave/desert/full/surface",
         "terralith:cave/desert/full/cracks",

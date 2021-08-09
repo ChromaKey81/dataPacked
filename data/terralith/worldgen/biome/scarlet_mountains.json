@@ -90,6 +90,8 @@
       ],
       [
         "minecraft:freeze_top_layer",
+        "terralith:mountains/scarlet/snow_fix",
+        "terralith:cave/generic/kill_bad_leaves",
         "terralith:cave/ice/columns",
         "terralith:cave/ice/surface",
         "terralith:cave/ice/pools",
@@ -101,12 +103,7 @@
         "terralith:cave/ice/ceiling",
         "terralith:cave/dripstone/large_dripstone",
         "terralith:cave/dripstone/dripstone_cluster",
-        "terralith:cave/dripstone/small_dripstone",
-        "terralith:snowy/snow_4_max",
-        "terralith:snowy/snow_3",
-        "terralith:snowy/snow_2",
-        "terralith:snowy/snow_1",
-        "terralith:snowy/fix_tree_snow"
+        "terralith:cave/dripstone/small_dripstone"
       ]
     ],
     "starts": [

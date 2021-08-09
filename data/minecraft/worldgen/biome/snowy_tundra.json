@@ -83,6 +83,7 @@
     ],
     [
       "minecraft:freeze_top_layer",
+      "terralith:cave/generic/kill_bad_leaves",
       "terralith:cave/ice/columns",
       "terralith:cave/ice/surface",
       "terralith:cave/ice/pools",
