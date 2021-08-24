@@ -1183,6 +1183,30 @@
                     "biome": "terralith:zreserved/114/midland_snowy_taiga_hills"
                 }
             }
+        },
+        "terralith.zreserved.115.highland_siberian_taiga": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "location": {
+                    "biome": "terralith/zreserved/115/highland_siberian_taiga"
+                }
+            }
+        },
+        "terralith.zreserved.116.orchid_swamp": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "location": {
+                    "biome": "terralith/zreserved/116/orchid_swamp"
+                }
+            }
+        },
+        "terralith.zreserved.117.blooming_meadow": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "location": {
+                    "biome": "terralith/zreserved/117/blooming_meadow"
+                }
+            }
         }
     },
     "requirements": [
@@ -1334,7 +1358,10 @@
             "terralith.zreserved.111.midland_taiga_hills",
             "terralith.zreserved.112.midland_snowy_taiga",
             "terralith.zreserved.113.highland_snowy_taiga",
-            "terralith.zreserved.114.midland_snowy_taiga_hills"
+            "terralith.zreserved.114.midland_snowy_taiga_hills",
+            "terralith.zreserved.115.highland_siberian_taiga",
+            "terralith.zreserved.116.orchid_swamp",
+            "terralith.zreserved.117.blooming_meadow"
         ]
     ],
     "rewards": {
