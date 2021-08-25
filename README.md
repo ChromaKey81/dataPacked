@@ -83,4 +83,4 @@ Direct downloads for resources:
 
 [Villager Hats](https://www.dropbox.com/s/c37kduk2um4etxa/Villager%20Hats%20Resource%20Pack.zip?dl=1)
 
-[Quark Vanilla Resource Overrides](https://www.curseforge.com/minecraft/texture-packs/quark-vanilla-resource-overrides/download/3244350)
+[Quark Vanilla Resource Overrides](https://www.curseforge.com/minecraft/texture-packs/quark-vanilla-resource-overrides/download/3244350) ([info](https://www.curseforge.com/minecraft/texture-packs/quark-vanilla-resource-overrides))
