@@ -54,11 +54,12 @@ Concrete powder -> stained glass, sandstone dyeing, and universal dyeing by Vani
 
 Banners on Beds by Aeldrion ([Info](https://www.planetminecraft.com/data-pack/banners-on-beds/), [Direct Download](https://www.planetminecraft.com/data-pack/banners-on-beds/download/file/14021493/))
 
+
 Villager Hats by Dylan Lewis AKA Dylan the Spud ([Info](https://www.planetminecraft.com/data-pack/villager-hats-cosmetics/), [Direct Download](https://www.dropbox.com/s/c37kduk2um4etxa/Villager%20Hats%20Resource%20Pack.zip?dl=0))
 
 
 
-It also relies on those packs' required resource packs, Incendium's optional resource pack, and a collection of VanillaTweaks resource packs. You need to install these resource packs to play.
+It also relies on those packs' required resource packs, Incendium's optional resource pack, a collection of VanillaTweaks resource packs, and the Quark Vanilla Resource Overrides pack. You should install these resource packs to play.
 
 
 Direct downloads for resources:
@@ -78,6 +79,8 @@ Direct downloads for resources:
 
 [Banners on Beds](https://www.planetminecraft.com/data-pack/banners-on-beds/download/file/14021503/)
 
-[VanillaTweaks](https://vanillatweaks.net/share/#1RFP8U)
+[VanillaTweaks](https://vanillatweaks.net/share#6F7iLk)
 
 [Villager Hats](https://www.dropbox.com/s/c37kduk2um4etxa/Villager%20Hats%20Resource%20Pack.zip?dl=1)
+
+[Quark Vanilla Resource Overrides](https://www.curseforge.com/minecraft/texture-packs/quark-vanilla-resource-overrides/download/3244350)
