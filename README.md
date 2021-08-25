@@ -42,7 +42,7 @@ EnderChest+ by rx ([Info](https://www.planetminecraft.com/data-pack/enderchest-i
 PlayerDB by rx ([Info](https://github.com/rx-modules/PlayerDB), [Direct Download](https://github.com/rx-modules/PlayerDB/releases/download/v1.2.0/PlayerDB.v1.2.0.zip))
 
 
-Better Traders by Platy ([Info](https://www.curseforge.com/minecraft/customization/better-traders-datapack), [Direct Download](https://www.curseforge.com/minecraft/customization/better-traders-datapack/download/3194118))
+Better Traders by Emma/Platy ([Info](https://www.curseforge.com/minecraft/customization/better-traders-datapack), [Direct Download](https://www.curseforge.com/minecraft/customization/better-traders-datapack/download/3194118))
 
 
 [VanillaTweaks website](https://www.vanillatweaks.com)
@@ -53,6 +53,8 @@ Concrete powder -> stained glass, sandstone dyeing, and universal dyeing by Vani
 
 
 Banners on Beds by Aeldrion ([Info](https://www.planetminecraft.com/data-pack/banners-on-beds/), [Direct Download](https://www.planetminecraft.com/data-pack/banners-on-beds/download/file/14021493/))
+
+Villager Hats by Dylan Lewis AKA Dylan the Spud ([Info](https://www.planetminecraft.com/data-pack/villager-hats-cosmetics/), [Direct Download](https://www.dropbox.com/s/c37kduk2um4etxa/Villager%20Hats%20Resource%20Pack.zip?dl=0))
 
 
 
@@ -77,3 +79,5 @@ Direct downloads for resources:
 [Banners on Beds](https://www.planetminecraft.com/data-pack/banners-on-beds/download/file/14021503/)
 
 [VanillaTweaks](https://vanillatweaks.net/share/#1RFP8U)
+
+[Villager Hats](https://www.dropbox.com/s/c37kduk2um4etxa/Villager%20Hats%20Resource%20Pack.zip?dl=1)
