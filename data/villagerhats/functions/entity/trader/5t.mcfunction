@@ -1,0 +1,2 @@
+execute if entity @s[type=villager,tag=!villagerhats.has_master_trade] run function villagerhats:entity/villager/5t
+execute if entity @s[type=wandering_trader,tag=ReRolledTrade,tag=!villagerhats.has_wandering_trader_trade] run function villagerhats:entity/wandering_trader/add_trade

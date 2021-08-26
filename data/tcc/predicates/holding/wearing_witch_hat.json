@@ -19,7 +19,7 @@
         "predicate": {
           "equipment": {
             "head": {
-              "nbt": "{VHWitchHat:1b}"
+              "nbt": "{villagerhats:{id:\"witch_hat\"}}"
             }
           }
         }
