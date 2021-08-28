@@ -82,6 +82,7 @@
     [
       "minecraft:freeze_top_layer",
       "terralith:cave/generic/kill_bad_leaves",
+      "terralith:cave/lush/calcite_geode_gen",
       "terralith:cave/lush/lush_caves_ceiling_vegetation",
       "terralith:cave/lush/cave_vines",
       "terralith:cave/lush/lush_caves_clay",
@@ -89,6 +90,7 @@
       "terralith:cave/lush/rooted_azalea_trees",
       "terralith:cave/lush/spore_blossom",
       "terralith:cave/lush/classic_vines_cave_feature",
+      "terralith:cave/thermal/redstone_extra",
       "terralith:cave/thermal/ceiling_lower",
       "terralith:cave/thermal/ceiling_upper",
       "terralith:cave/thermal/ceiling_lower_small",
@@ -101,6 +103,7 @@
       "terralith:cave/desert/ceiling",
       "terralith:cave/desert/surface",
       "terralith:cave/desert/cracks",
+      "terralith:cave/desert/golden_oasis",
       "terralith:cave/desert/lava",
       "terralith:cave/desert/dead_bush"
     ]

@@ -89,6 +89,7 @@
       "minecraft:prototype_spring_lava"
     ],
     [
+      "terralith:cave/lush/calcite_geode_gen",
       "terralith:cave/lush/lush_caves_ceiling_vegetation",
       "terralith:cave/lush/cave_vines",
       "terralith:cave/lush/lush_caves_clay",
