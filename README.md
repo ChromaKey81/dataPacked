@@ -55,7 +55,7 @@ Concrete powder -> stained glass, sandstone dyeing, and universal dyeing by Vani
 Banners on Beds by Aeldrion ([Info](https://www.planetminecraft.com/data-pack/banners-on-beds/), [Direct Download](https://www.planetminecraft.com/data-pack/banners-on-beds/download/file/14021493/))
 
 
-Villager Hats by Dylan Lewis AKA Dylan the Spud ([Info](https://www.planetminecraft.com/data-pack/villager-hats-cosmetics/), [Direct Download](https://www.dropbox.com/s/c37kduk2um4etxa/Villager%20Hats%20Resource%20Pack.zip?dl=0))
+Villager Hats by Dylan Lewis AKA Dylan the Spud ([Info](https://www.planetminecraft.com/data-pack/villager-hats-cosmetics/), [Direct Download](https://www.dropbox.com/s/lcyr58n42x4ksjc/Villager%20Hats%20Data%20Pack.zip?dl=1))
 
 
 
