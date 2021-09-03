@@ -13,7 +13,7 @@ AntiF3 by ChromaKey ([Info](https://www.planetminecraft.com/data-pack/antif3/), 
 AntiF3 add-on ([direct download](https://www.dropbox.com/s/drpqf8l4u0ll3sb/antif3%20addon.zip?dl=1))
 
 
-Tricksand by ChromaKey ([Info](https://www.planetminecraft.com/data-pack/tricksand/), [Direct Download](https://www.planetminecraft.com/data-pack/tricksand/download/file/14716687/))
+Tricksand by ChromaKey ([Info](https://www.planetminecraft.com/data-pack/tricksand/), [Direct Download](https://www.planetminecraft.com/data-pack/tricksand/download/file/14738760/))
 
 
 Better Phantoms by ChromaKey ([Info](https://www.planetminecraft.com/data-pack/better-phantoms-5165721/), [Direct Download](https://www.planetminecraft.com/data-pack/better-phantoms-5165721/download/file/14527698/))
