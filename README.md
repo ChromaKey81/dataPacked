@@ -8,7 +8,7 @@ Enderground by ChromaKey ([Info](https://www.planetminecraft.com/data-pack/ender
 Ding Dong by ChromaKey ([Info](https://www.planetminecraft.com/data-pack/ding-dong-4801059/), [Direct Download](https://github.com/ChromaKey81/ding-dong/releases/download/v2.1/Ding-Dong.zip))
 
 
-AntiF3 by ChromaKey ([Info](https://www.planetminecraft.com/data-pack/antif3/), [Direct Download](https://datapackcenter.com/projects/antif3.229/download))
+AntiF3 by ChromaKey ([Info](https://www.planetminecraft.com/data-pack/antif3/), [Direct Download](https://github.com/ChromaKey81/AntiF3/releases/download/v2.2/AntiF3-data.zip))
 
 AntiF3 add-on ([direct download](https://www.dropbox.com/s/drpqf8l4u0ll3sb/antif3%20addon.zip?dl=1))
 
@@ -67,7 +67,7 @@ Direct downloads for resources:
 
 [Enderground](https://www.planetminecraft.com/data-pack/enderground-5172181/download/file/14539623/)
 
-[AntiF3](https://www.planetminecraft.com/data-pack/antif3/download/file/14654527/)
+[AntiF3](https://github.com/ChromaKey81/AntiF3/releases/download/v2.2/AntiF3.assets.zip)
 
 [Better Phantoms](https://www.planetminecraft.com/data-pack/better-phantoms-5165721/download/file/14521766/)
 
