@@ -5,7 +5,7 @@ dataPacked uses the following datapacks as dependencies. Download them and check
 Enderground by ChromaKey ([Info](https://www.planetminecraft.com/data-pack/enderground-5172181/), [Direct Download](https://www.planetminecraft.com/data-pack/enderground-5172181/download/file/14539620/))
 
 
-Ding Dong by ChromaKey ([Info](https://www.planetminecraft.com/data-pack/ding-dong-4801059/), [Direct Download](https://www.planetminecraft.com/data-pack/ding-dong-4801059/download/file/14539913/))
+Ding Dong by ChromaKey ([Info](https://www.planetminecraft.com/data-pack/ding-dong-4801059/), [Direct Download](https://www.planetminecraft.com/data-pack/ding-dong-4801059/download/mirror/618880/))
 
 
 AntiF3 by ChromaKey ([Info](https://www.planetminecraft.com/data-pack/antif3/), [Direct Download](https://datapackcenter.com/projects/antif3.229/download))
