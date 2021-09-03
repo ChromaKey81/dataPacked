@@ -77,7 +77,7 @@ Direct downloads for resources:
 
 [Incendium](https://www.dropbox.com/s/2ky00z2ymrcrusj/Incendium%20-%20Optional%20Resource%20Pack.zip?dl=1)
 
-[Banners on Beds](https://www.planetminecraft.com/data-pack/banners-on-beds/download/file/14021503/)
+[Banners on Beds](https://www.planetminecraft.com/data-pack/banners-on-beds/download/file/14780170/)
 
 [VanillaTweaks](https://vanillatweaks.net/share#6F7iLk)
 
