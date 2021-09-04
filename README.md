@@ -5,15 +5,15 @@ dataPacked uses the following datapacks as dependencies. Download them and check
 Enderground by ChromaKey ([Info](https://www.planetminecraft.com/data-pack/enderground-5172181/), [Direct Download](https://www.planetminecraft.com/data-pack/enderground-5172181/download/file/14539620/))
 
 
-Ding Dong by ChromaKey ([Info](https://www.planetminecraft.com/data-pack/ding-dong-4801059/), [Direct Download](https://www.planetminecraft.com/data-pack/ding-dong-4801059/download/file/14539913/))
+Ding Dong by ChromaKey ([Info](https://www.planetminecraft.com/data-pack/ding-dong-4801059/), [Direct Download](https://github.com/ChromaKey81/ding-dong/releases/download/v2.1/Ding-Dong.zip))
 
 
-AntiF3 by ChromaKey ([Info](https://www.planetminecraft.com/data-pack/antif3/), [Direct Download](https://datapackcenter.com/projects/antif3.229/download))
+AntiF3 by ChromaKey ([Info](https://www.planetminecraft.com/data-pack/antif3/), [Direct Download](https://github.com/ChromaKey81/AntiF3/releases/download/v2.2/AntiF3-data.zip))
 
 AntiF3 add-on ([direct download](https://www.dropbox.com/s/drpqf8l4u0ll3sb/antif3%20addon.zip?dl=1))
 
 
-Tricksand by ChromaKey ([Info](https://www.planetminecraft.com/data-pack/tricksand/), [Direct Download](https://www.planetminecraft.com/data-pack/tricksand/download/file/14716687/))
+Tricksand by ChromaKey ([Info](https://www.planetminecraft.com/data-pack/tricksand/), [Direct Download](https://www.planetminecraft.com/data-pack/tricksand/download/file/14738760/))
 
 
 Better Phantoms by ChromaKey ([Info](https://www.planetminecraft.com/data-pack/better-phantoms-5165721/), [Direct Download](https://www.planetminecraft.com/data-pack/better-phantoms-5165721/download/file/14527698/))
@@ -55,7 +55,7 @@ Concrete powder -> stained glass, sandstone dyeing, and universal dyeing by Vani
 Banners on Beds by Aeldrion ([Info](https://www.planetminecraft.com/data-pack/banners-on-beds/), [Direct Download](https://www.planetminecraft.com/data-pack/banners-on-beds/download/file/14021493/))
 
 
-Villager Hats by Dylan Lewis AKA Dylan the Spud ([Info](https://www.planetminecraft.com/data-pack/villager-hats-cosmetics/), [Direct Download](https://www.dropbox.com/s/c37kduk2um4etxa/Villager%20Hats%20Resource%20Pack.zip?dl=0))
+Villager Hats by Dylan Lewis AKA Dylan the Spud ([Info](https://www.planetminecraft.com/data-pack/villager-hats-cosmetics/), [Direct Download](https://www.dropbox.com/s/lcyr58n42x4ksjc/Villager%20Hats%20Data%20Pack.zip?dl=1))
 
 
 
@@ -67,7 +67,7 @@ Direct downloads for resources:
 
 [Enderground](https://www.planetminecraft.com/data-pack/enderground-5172181/download/file/14539623/)
 
-[AntiF3](https://www.planetminecraft.com/data-pack/antif3/download/file/14654527/)
+[AntiF3](https://github.com/ChromaKey81/AntiF3/releases/download/v2.2/AntiF3.assets.zip)
 
 [Better Phantoms](https://www.planetminecraft.com/data-pack/better-phantoms-5165721/download/file/14521766/)
 
@@ -77,7 +77,7 @@ Direct downloads for resources:
 
 [Incendium](https://www.dropbox.com/s/2ky00z2ymrcrusj/Incendium%20-%20Optional%20Resource%20Pack.zip?dl=1)
 
-[Banners on Beds](https://www.planetminecraft.com/data-pack/banners-on-beds/download/file/14021503/)
+[Banners on Beds](https://www.planetminecraft.com/data-pack/banners-on-beds/download/file/14780170/)
 
 [VanillaTweaks](https://vanillatweaks.net/share#6F7iLk)
 
