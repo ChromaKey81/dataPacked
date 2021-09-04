@@ -49,7 +49,10 @@
             "type": "minecraft:disk",
             "config": {
               "state": {
-                "Name": "minecraft:grass_block"
+                "Name": "minecraft:grass_block",
+                "Properties": {
+                  "snowy": "false"
+                }
               },
               "radius": {
                 "type": "minecraft:uniform",

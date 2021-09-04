@@ -50,7 +50,10 @@
                       "ground_state": {
                         "type": "minecraft:simple_state_provider",
                         "state": {
-                          "Name": "minecraft:grass_block"
+                          "Name": "minecraft:grass_block",
+                          "Properties": {
+                            "snowy": "false"
+                          }
                         }
                       },
                       "vegetation_feature": {
@@ -99,7 +102,10 @@
                               },
                               "place_on": [
                                 {
-                                  "Name": "minecraft:grass_block"
+                                  "Name": "minecraft:grass_block",
+                                  "Properties": {
+                                    "snowy": "false"
+                                  }
                                 }
                               ],
                               "place_in": [
