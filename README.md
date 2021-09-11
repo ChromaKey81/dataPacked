@@ -31,10 +31,10 @@ Action Bar Compatibility Library by ChromaKey (you don't need to download this o
 The Creeper's Code by CreeperMagnet_ and the TCC team ([Info](https://www.thecreeperscode.com/), [Direct Download](https://github.com/CreeperMagnet/the-creepers-code/releases/download/V0.5.1/TCC.Datapack.zip))
 
 
-Incendium by Starmute ([Info](https://www.planetminecraft.com/data-pack/incendium-nether-expansion/), [Direct Download](https://www.planetminecraft.com/data-pack/incendium-nether-expansion/download/file/13306558/))
+Incendium by Stardust Labs ([Info](https://www.planetminecraft.com/data-pack/incendium-nether-expansion/), [Direct Download](https://www.planetminecraft.com/data-pack/incendium-nether-expansion/download/file/13306558/))
 
 
-Terralith by Starmute ([Info](https://www.planetminecraft.com/data-pack/terralith-overworld-evolved-100-biomes-caves-and-more/), [Direct Download](https://www.planetminecraft.com/data-pack/terralith-overworld-evolved-100-biomes-caves-and-more/download/file/14707294/))
+Terralith by Stardust Labs ([Info](https://www.planetminecraft.com/data-pack/terralith-overworld-evolved-100-biomes-caves-and-more/), [Direct Download](https://www.planetminecraft.com/data-pack/terralith-overworld-evolved-100-biomes-caves-and-more/download/file/14707294/))
 
 
 EnderChest+ by rx ([Info](https://www.planetminecraft.com/data-pack/enderchest-infinitely-expandable-enderchests), [Direct Download](https://github.com/rx-modules/EnderChestPlus/releases/download/v1.8/EnderChest+.v1.8.zip))
