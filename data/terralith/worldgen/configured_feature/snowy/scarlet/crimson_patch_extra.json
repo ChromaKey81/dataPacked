@@ -50,10 +50,7 @@
                       "ground_state": {
                         "type": "minecraft:simple_state_provider",
                         "state": {
-                          "Name": "minecraft:grass_block",
-                          "Properties": {
-                            "snowy": "false"
-                          }
+                          "Name": "minecraft:netherrack"
                         }
                       },
                       "vegetation_feature": {
@@ -102,10 +99,7 @@
                               },
                               "place_on": [
                                 {
-                                  "Name": "minecraft:grass_block",
-                                  "Properties": {
-                                    "snowy": "false"
-                                  }
+                                  "Name": "minecraft:netherrack"
                                 }
                               ],
                               "place_in": [
