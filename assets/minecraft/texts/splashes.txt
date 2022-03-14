@@ -470,15 +470,6 @@ dragoncommands!
 dragoncommands!
 dragoncommands!
 dragoncommands!
-Jachro!
-Jachro!
-Jachro!
-Jachro!
-Jachro!
-Jachro!
-Jachro!
-Jachro!
-Jachro!
 TheNuclearNexus!
 TheNuclearNexus!
 TheNuclearNexus!
@@ -506,15 +497,6 @@ rx!
 rx!
 rx!
 rx!
-Platy!
-Platy!
-Platy!
-Platy!
-Platy!
-Platy!
-Platy!
-Platy!
-Platy!
 Grant!
 Grant!
 Grant!
@@ -587,20 +569,18 @@ Feranogame!
 Feranogame!
 Feranogame!
 Feranogame!
-Dylan the Spud!
-Dylan the Spud!
-Dylan the Spud!
-Dylan the Spud!
-Dylan the Spud!
-Dylan the Spud!
-Dylan the Spud!
-Dylan the Spud!
-Dylan the Spud!
+Palkip!
+Palkip!
+Palkip!
+Palkip!
+Palkip!
+Palkip!
+Palkip!
+Palkip!
 Now with The Creeper's Code!
 Now with Incendium!
 Now with Terralith!
 Now with EnderChest+!
-Now with Better Traders!
 Now with VanillaTweaks!
 Now with Banners on Beds!
 Now with Enderground!
@@ -610,8 +590,10 @@ Now with Tricksand!
 Now with Better Phantoms!
 Now with Copper Tools!
 Now with Desert Lapis!
-Now with Villager Hats!
+Now with Crossbow Torches!
+Now with Bar Switcher!
 Compatible action bars!
+Switchable hotbars!
 Loot tables!
 packed
 crhoma monke
@@ -622,3 +604,4 @@ gaming
 yo
 STEWART
 chromakey expansion update when
+chromakeyjr
