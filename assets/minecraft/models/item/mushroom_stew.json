@@ -1,0 +1,15 @@
+{
+    "parent": "item/generated",
+    "textures": {
+     "particle": "minecraft:item/transparent",
+      "layer0": "item/mushroom_stew"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "custom_model_data": 330000
+        },
+        "model": "tcc:item/fungal_stew"
+      }
+    ]
+  }

@@ -6,18 +6,6 @@
     "overrides": [
         {
             "predicate": {
-              "custom_model_data": 1026
-            },
-            "model": "incendium:item/withersbane"
-        },
-        {
-            "predicate": {
-              "custom_model_data": 330000
-            },
-            "model": "tcc:item/tipped_swords/golden_sword"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 1320000
             },
             "model": "coppertools:item/copper_sword"
@@ -39,6 +27,12 @@
                 "custom_model_data": 1320003
             },
             "model": "coppertools:item/oxidized_copper_sword"
+        },
+        {
+            "predicate": {
+              "custom_model_data": 1450007
+            },
+            "model": "incendium:item/withersbane"
         }
     ]
 }

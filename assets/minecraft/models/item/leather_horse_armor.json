@@ -6,351 +6,255 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 330000
+              "custom_model_data": 330000
             },
-            "model": "tcc:block/teapot_full"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 330001
-            },
-            "model": "tcc:entity/enchanter/idle"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 330002
-            },
-            "model": "tcc:entity/enchanter/walking"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 330003
-            },
-            "model": "tcc:entity/enchanter/spell"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 330004
-            },
-            "model": "tcc:entity/enchanter/head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 330005
-            },
-            "model": "tcc:entity/geomancer/idle"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 330006
-            },
-            "model": "tcc:entity/geomancer/walking"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 330007
-            },
-            "model": "tcc:entity/geomancer/spell"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 330008
-            },
-            "model": "tcc:entity/geomancer/head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 330009
-            },
-            "model": "tcc:entity/iceologer/idle"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 330010
-            },
-            "model": "tcc:entity/iceologer/walking"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 330011
-            },
-            "model": "tcc:entity/iceologer/spell"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 330012
-            },
-            "model": "tcc:entity/iceologer/head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 330013
-            },
-            "model": "tcc:entity/passive_witch/idle"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 330014
-            },
-            "model": "tcc:entity/passive_witch/walking"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 330015
-            },
-            "model": "tcc:entity/passive_witch/head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 330016
-            },
-            "model": "tcc:entity/snail/normal"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320001
-            },
-            "model": "bob:block/base"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320002
-            },
-            "model": "bob:block/border"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320003
-            },
-            "model": "bob:block/bricks"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320004
-            },
-            "model": "bob:block/circle"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320005
-            },
-            "model": "bob:block/creeper"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320006
-            },
-            "model": "bob:block/cross"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320007
-            },
-            "model": "bob:block/curly_border"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320008
-            },
-            "model": "bob:block/diagonal_left"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320009
-            },
-            "model": "bob:block/diagonal_right"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320010
-            },
-            "model": "bob:block/diagonal_up_left"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320011
-            },
-            "model": "bob:block/diagonal_up_right"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320012
-            },
-            "model": "bob:block/flower"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320013
-            },
-            "model": "bob:block/globe"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320014
-            },
-            "model": "bob:block/gradient"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320015
-            },
-            "model": "bob:block/gradient_up"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320016
-            },
-            "model": "bob:block/half_horizontal"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320017
-            },
-            "model": "bob:block/half_vertical"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320018
-            },
-            "model": "bob:block/half_vertical_right"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320019
-            },
-            "model": "bob:block/mojang"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320020
-            },
-            "model": "bob:block/piglin"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320021
-            },
-            "model": "bob:block/rhombus"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320022
-            },
-            "model": "bob:block/skull"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320023
-            },
-            "model": "bob:block/small_stripes"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320024
-            },
-            "model": "bob:block/square_bottom_left"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320025
-            },
-            "model": "bob:block/square_bottom_right"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320026
-            },
-            "model": "bob:block/square_top_left"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320027
-            },
-            "model": "bob:block/square_top_right"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320028
-            },
-            "model": "bob:block/straight_cross"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320029
-            },
-            "model": "bob:block/stripe_bottom"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320030
-            },
-            "model": "bob:block/stripe_center"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320031
-            },
-            "model": "bob:block/stripe_downleft"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320032
-            },
-            "model": "bob:block/stripe_downright"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320033
-            },
-            "model": "bob:block/stripe_left"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320034
-            },
-            "model": "bob:block/stripe_middle"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320035
-            },
-            "model": "bob:block/stripe_right"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320036
-            },
-            "model": "bob:block/stripe_top"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320037
-            },
-            "model": "bob:block/triangle_bottom"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320038
-            },
-            "model": "bob:block/triangle_top"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320039
-            },
-            "model": "bob:block/triangles_bottom"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320040
-            },
-            "model": "bob:block/triangles_top"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4320041
-            },
-            "model": "bob:block/half_horizontal_bottom"
-        }
+            "model": "tcc:block/teapot/full"
+          },
+          {
+			"predicate": {
+				"custom_model_data": 4320001
+			},
+			"model": "bob:block/base"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320002
+			},
+			"model": "bob:block/border"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320003
+			},
+			"model": "bob:block/bricks"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320004
+			},
+			"model": "bob:block/circle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320005
+			},
+			"model": "bob:block/creeper"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320006
+			},
+			"model": "bob:block/cross"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320007
+			},
+			"model": "bob:block/curly_border"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320008
+			},
+			"model": "bob:block/diagonal_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320009
+			},
+			"model": "bob:block/diagonal_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320010
+			},
+			"model": "bob:block/diagonal_up_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320011
+			},
+			"model": "bob:block/diagonal_up_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320012
+			},
+			"model": "bob:block/flower"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320013
+			},
+			"model": "bob:block/globe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320014
+			},
+			"model": "bob:block/gradient"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320015
+			},
+			"model": "bob:block/gradient_up"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320016
+			},
+			"model": "bob:block/half_horizontal"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320017
+			},
+			"model": "bob:block/half_vertical"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320018
+			},
+			"model": "bob:block/half_vertical_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320019
+			},
+			"model": "bob:block/mojang"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320020
+			},
+			"model": "bob:block/piglin"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320021
+			},
+			"model": "bob:block/rhombus"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320022
+			},
+			"model": "bob:block/skull"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320023
+			},
+			"model": "bob:block/small_stripes"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320024
+			},
+			"model": "bob:block/square_bottom_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320025
+			},
+			"model": "bob:block/square_bottom_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320026
+			},
+			"model": "bob:block/square_top_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320027
+			},
+			"model": "bob:block/square_top_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320028
+			},
+			"model": "bob:block/straight_cross"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320029
+			},
+			"model": "bob:block/stripe_bottom"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320030
+			},
+			"model": "bob:block/stripe_center"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320031
+			},
+			"model": "bob:block/stripe_downleft"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320032
+			},
+			"model": "bob:block/stripe_downright"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320033
+			},
+			"model": "bob:block/stripe_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320034
+			},
+			"model": "bob:block/stripe_middle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320035
+			},
+			"model": "bob:block/stripe_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320036
+			},
+			"model": "bob:block/stripe_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320037
+			},
+			"model": "bob:block/triangle_bottom"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320038
+			},
+			"model": "bob:block/triangle_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320039
+			},
+			"model": "bob:block/triangles_bottom"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320040
+			},
+			"model": "bob:block/triangles_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320041
+			},
+			"model": "bob:block/half_horizontal_bottom"
+		}
     ]
 }
