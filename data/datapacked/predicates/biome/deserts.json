@@ -4,67 +4,25 @@
         {
             "condition": "minecraft:location_check",
             "predicate": {
-                "biome": "minecraft:desert_hills"
-            }
-        },
-        {
-            "condition": "minecraft:location_check",
-            "predicate": {
-                "biome": "minecraft:desert_lakes"
-            }
-        },
-        {
-            "condition": "minecraft:location_check",
-            "predicate": {
                 "biome": "minecraft:desert"
             }
         },
         {
             "condition": "minecraft:location_check",
             "predicate": {
-                "biome": "terralith:ancient_sands"
+                "biome": "terralith:desert_oasis"
             }
         },
         {
             "condition": "minecraft:location_check",
             "predicate": {
-                "biome": "terralith:gravel_desert"
-            }
-        },
-        {
-            "condition": "minecraft:location_check",
-            "predicate": {
-                "biome": "terralith:sandstone_valley_r"
+                "biome": "terralith:desert_spires"
             }
         },
         {
             "condition": "minecraft:location_check",
             "predicate": {
                 "biome": "terralith:sandstone_valley"
-            }
-        },
-        {
-            "condition": "minecraft:location_check",
-            "predicate": {
-                "biome": "terralith:zreserved/106/midland_desert"
-            }
-        },
-        {
-            "condition": "minecraft:location_check",
-            "predicate": {
-                "biome": "terralith:zreserved/107/highland_desert"
-            }
-        },
-        {
-            "condition": "minecraft:location_check",
-            "predicate": {
-                "biome": "terralith:zreserved/108/desert_dunes"
-            }
-        },
-        {
-            "condition": "minecraft:location_check",
-            "predicate": {
-                "biome": "terralith:zreserved/109/highland_oasis"
             }
         }
     ]
