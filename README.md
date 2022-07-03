@@ -79,7 +79,7 @@ Direct downloads for resources:
 
 [Banners on Beds](https://www.planetminecraft.com/data-pack/banners-on-beds/download/file/14780170/)
 
-[VanillaTweaks](https://vanillatweaks.net/share#6F7iLk)
+[VanillaTweaks](https://vanillatweaks.net/share#xIGGOw)
 
 [Villager Hats](https://www.dropbox.com/s/c37kduk2um4etxa/Villager%20Hats%20Resource%20Pack.zip?dl=1)
 
